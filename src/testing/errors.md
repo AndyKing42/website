@@ -145,9 +145,9 @@ void main() {
 
 ## Handling all types of errors
 
-Say you want to exit application on any exception and to display
-a custom error widget whenever a widget building fails - you can base
-your errors handling on next code snippet:
+Say you want to exit the application on any exception, and to display
+a custom error widget whenever a widget build fails - you can base
+your error handling on the following code snippet:
 
 <?code-excerpt "lib/main.dart (Main)"?>
 ```dart
